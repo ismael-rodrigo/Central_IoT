@@ -1,2 +1,2 @@
-# Central_IOT
- Controle de dispositivos
+# Iot device hub
+centralized smart device control
